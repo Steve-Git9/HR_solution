@@ -1,0 +1,1 @@
+pip install streamlit sentence-transformers scikit-learn matplotlib
